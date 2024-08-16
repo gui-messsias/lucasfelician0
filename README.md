@@ -1,8 +1,7 @@
-<h1>Eu sou o Lucas Feliciano!</h1>
+<h1>Eu sou o Guilherme Messias!</h1>
 <br>
-<p>- Trabalho na empresa Smartfit</p>
-<p>- Me encontro no último semestre da faculdade de Análise e Desenvolvimento de Sistemas</p>
-<p>- Tenho 27 anos de idade</p>
+<p>- Trabalho na empresa Smartfit a 6 anos</p>
+<p>- Tenho 30 anos de idade</p>
 <p>- Amo trabalhar com programação</p>
 <br>
 <p align="left">
